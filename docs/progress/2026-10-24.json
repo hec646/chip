@@ -4,11 +4,11 @@
   "basis": "依目前保存的操作與核對紀錄整理，非即時平台查詢；送出不等於核准，未記錄不等於未上架。",
   "summary": {
     "totalQueued": 40,
-    "shopeeOptimized": 12,
-    "pending": 27,
+    "shopeeOptimized": 13,
+    "pending": 26,
     "deferred": 1,
-    "approvedProductImages": 144,
-    "archivedSourceImages": 425,
+    "approvedProductImages": 156,
+    "archivedSourceImages": 438,
     "unidentifiedArchivedImages": 80
   },
   "products": [
@@ -457,14 +457,47 @@
         "status": "尚未刊登；平台驗證條件待處理"
       },
       "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "29607346451",
+      "title": "[MOTIEN] [DC-DC轉換器] VA-3R33R3SL／VA-0505S1｜4腳電源模組",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 6,
+      "archivedVerifiedFiles": 54,
+      "priceStockCheckedAt": "2026-10-24",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "VA-3R33R3SL",
+          "price": 60,
+          "stock": 15
+        },
+        {
+          "model": "VA-0505S1",
+          "price": 50,
+          "stock": 6
+        }
+      ],
+      "facebook": {
+        "status": "已送審",
+        "url": "https://www.facebook.com/marketplace/item/1813058563370023/"
+      },
+      "ruten": {
+        "status": "本次未處理",
+        "url": null
+      },
+      "yahoo": {
+        "status": "尚未刊登；平台驗證條件待處理"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
     }
   ],
   "pending": [
-    {
-      "id": "29607346451",
-      "title": "[MOTIEN] [DC-DC轉換器] VA-3R33R3SL／VA-0505S1｜4腳電源模組",
-      "status": "待核對庫存及優化"
-    },
     {
       "id": "29029516173",
       "title": "[電子零件] AZ1117-H-3.3／330BJ｜引腳與金屬片實拍・依完整料號選購",
@@ -604,8 +637,8 @@
   ],
   "preparedPendingUpload": null,
   "latestProductFacebook": {
-    "shopeeProductId": "29729584085",
-    "url": "https://www.facebook.com/marketplace/item/2331607740939241/",
+    "shopeeProductId": "29607346451",
+    "url": "https://www.facebook.com/marketplace/item/1813058563370023/",
     "status": "檢閱中",
     "photos": 9,
     "copyVerified": true,
@@ -625,7 +658,7 @@
   "constraints": [
     "價格庫存為各商品核對日期的人工快照，跨平台共用同批庫存。",
     "缺少證明的品牌、規格、保固或測試結果不補寫為已知事實。",
-    "12份Word內容草稿已保存，但尚未完成最終逐頁版面核對。",
+    "13份Word內容草稿已保存，但尚未完成最終逐頁版面核對。",
     "80張已歸檔來源圖仍待辨識，歸檔不代表內容審核或已上架。"
   ]
 }
