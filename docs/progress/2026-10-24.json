@@ -1,0 +1,508 @@
+{
+  "asOf": "2026-10-24",
+  "timezone": "Asia/Taipei",
+  "basis": "依目前保存的操作與核對紀錄整理，非即時平台查詢；送出不等於核准，未記錄不等於未上架。",
+  "summary": {
+    "totalQueued": 40,
+    "shopeeOptimized": 9,
+    "pending": 30,
+    "deferred": 1,
+    "approvedProductImages": 108,
+    "archivedSourceImages": 385,
+    "unidentifiedArchivedImages": 80
+  },
+  "products": [
+    {
+      "shopeeProductId": "27629443893",
+      "title": "[NXP／Freescale] [開發板] FRDM-KE06Z｜Cortex-M0+・CAN・OpenSDA・二手",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 3,
+      "archivedVerifiedFiles": 42,
+      "priceStockCheckedAt": "2026-10-23",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "FRDM-KE06Z",
+          "price": 1380,
+          "stock": 1
+        }
+      ],
+      "facebook": {
+        "status": "已發佈",
+        "url": "https://www.facebook.com/marketplace/item/30028456310077410/"
+      },
+      "ruten": {
+        "status": null,
+        "url": null
+      },
+      "yahoo": {
+        "status": "未記錄／待核對"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "29262177800",
+      "title": "[HOLTEK 盛群] [觸控偵測IC] BS813A-1｜三鍵並列輸出・8SOP",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 3,
+      "archivedVerifiedFiles": 41,
+      "priceStockCheckedAt": "2026-10-23",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "BS813A-1",
+          "price": 14,
+          "stock": 434
+        }
+      ],
+      "facebook": {
+        "status": "已發佈",
+        "url": "https://www.facebook.com/marketplace/item/1883810305941242/"
+      },
+      "ruten": {
+        "status": null,
+        "url": null
+      },
+      "yahoo": {
+        "status": "未記錄／待核對"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "25392472719",
+      "title": "[ST 意法半導體] [線性穩壓IC] L7824CV｜固定+24V・TO-220三端",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 3,
+      "archivedVerifiedFiles": 42,
+      "priceStockCheckedAt": "2026-10-23",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "L7824CV",
+          "price": 25,
+          "stock": 42
+        }
+      ],
+      "facebook": {
+        "status": "已發佈",
+        "url": "https://www.facebook.com/marketplace/item/1508536144451079/"
+      },
+      "ruten": {
+        "status": null,
+        "url": null
+      },
+      "yahoo": {
+        "status": "未記錄／待核對"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "28912174366",
+      "title": "[Analog Devices ADI] [數位隔離IC] ADuM1201BRZ｜雙通道・1進1出・10Mbps",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 3,
+      "archivedVerifiedFiles": 40,
+      "priceStockCheckedAt": "2026-10-23",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "ADuM1201BRZ",
+          "price": 140,
+          "stock": 82
+        }
+      ],
+      "facebook": {
+        "status": "已發佈",
+        "url": "https://www.facebook.com/marketplace/item/2089153185296695/"
+      },
+      "ruten": {
+        "status": null,
+        "url": null
+      },
+      "yahoo": {
+        "status": "未記錄／待核對"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "27779445217",
+      "title": "[Orange Tree] [千兆乙太網路模組] ZestETM1｜TCP/UDP硬體卸載・擴充板實拍",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 4,
+      "archivedVerifiedFiles": 43,
+      "priceStockCheckedAt": "2026-10-23",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "ZestETM1",
+          "price": 3680,
+          "stock": 1
+        }
+      ],
+      "facebook": {
+        "status": "已發佈",
+        "url": "https://www.facebook.com/marketplace/item/1137549738954745/"
+      },
+      "ruten": {
+        "status": null,
+        "url": null
+      },
+      "yahoo": {
+        "status": "未記錄／待核對"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "29679057693",
+      "title": "[GOODSKY] [電磁繼電器] RWH-SH-124D／GQ-SH-124LM1F｜24VDC",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 4,
+      "archivedVerifiedFiles": 52,
+      "priceStockCheckedAt": "2026-10-24",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "GQ-SH-124LM1F",
+          "price": 60,
+          "stock": 475
+        },
+        {
+          "model": "RWH-SH-124D",
+          "price": 30,
+          "stock": 619
+        }
+      ],
+      "facebook": {
+        "status": "已發佈",
+        "url": "https://www.facebook.com/marketplace/item/1615555616976165/"
+      },
+      "ruten": {
+        "status": null,
+        "url": null
+      },
+      "yahoo": {
+        "status": "未記錄／待核對"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "25936346708",
+      "title": "[ST 意法半導體] [線性穩壓IC] L7815CV +15V／L7915CV −15V｜TO-220",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 6,
+      "archivedVerifiedFiles": 50,
+      "priceStockCheckedAt": "2026-10-24",
+      "minimumOrder": 10,
+      "variants": [
+        {
+          "model": "L7815CV",
+          "price": 10,
+          "stock": 200
+        },
+        {
+          "model": "L7915CV",
+          "price": 10,
+          "stock": 200
+        }
+      ],
+      "facebook": {
+        "status": "已發佈",
+        "url": "https://www.facebook.com/marketplace/item/999846055707409/"
+      },
+      "ruten": {
+        "status": "已上架並開啟公開頁",
+        "url": "https://www.ruten.com.tw/item/22643996071245/"
+      },
+      "yahoo": {
+        "status": "尚未刊登；平台驗證條件待處理"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "26212372461",
+      "title": "[Infineon／onsemi] [驅動／多工IC] 1EDI05I12AF／MC14067BDWG",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 5,
+      "archivedVerifiedFiles": 56,
+      "priceStockCheckedAt": "2026-10-24",
+      "minimumOrder": 10,
+      "variants": [
+        {
+          "model": "1EDI05I12AFXUMA1",
+          "price": 40,
+          "stock": 30
+        },
+        {
+          "model": "MC14067BDWG",
+          "price": 50,
+          "stock": 8
+        }
+      ],
+      "facebook": {
+        "status": "已送審",
+        "url": "https://www.facebook.com/marketplace/item/2320925042071533/"
+      },
+      "ruten": {
+        "status": "公開上架已核對",
+        "url": "https://www.ruten.com.tw/item/22643996881143/"
+      },
+      "yahoo": {
+        "status": "尚未刊登；平台驗證條件待處理"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "27912078739",
+      "title": "[電子零件] [連接器插座] ESB35101000Z Mini USB 5P／4POS｜單顆分款",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 6,
+      "archivedVerifiedFiles": 69,
+      "priceStockCheckedAt": "2026-10-24",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "ESB35101000Z Mini USB母座",
+          "price": 25,
+          "stock": 50
+        },
+        {
+          "model": "4POS白色連接器",
+          "price": 5,
+          "stock": 50
+        }
+      ],
+      "facebook": {
+        "status": "已送審",
+        "url": "https://www.facebook.com/marketplace/item/1652740136285755/"
+      },
+      "ruten": {
+        "status": "已上架",
+        "url": "https://www.ruten.com.tw/item/22643997818841/"
+      },
+      "yahoo": {
+        "status": "尚未刊登；平台驗證條件待處理"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
+    }
+  ],
+  "pending": [
+    {
+      "id": "28812090918",
+      "title": "[Letex／ADI] [電子零件] LT218光繼電器／AD8656・AD8676運放｜依料號選購",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "28812372608",
+      "title": "[Echelon／Samsung] [處理器IC] PL3150-L10／S3C6410系列｜依料號選購",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "29729584085",
+      "title": "[MPD／型號選購] [AC-DC電源模組] MPL-05S-12EUP／12E・GS3-S12・5S-1A2",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "29607346451",
+      "title": "[MOTIEN] [DC-DC轉換器] VA-3R33R3SL／VA-0505S1｜4腳電源模組",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "29029516173",
+      "title": "[電子零件] AZ1117-H-3.3／330BJ｜引腳與金屬片實拍・依完整料號選購",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "27962369897",
+      "title": "[維修零件] IRON26彈簧｜原標示HUD V12・端部彎腳實拍",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "26407873327",
+      "title": "[電子零件] AI-U-118 24 die｜長型封裝實拍・依原料號核對",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "26163718935",
+      "title": "[Philips／Fairchild／TI] [邏輯IC] 74HC541系列／SN74LS244DW",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "26130920134",
+      "title": "[Analog Devices] [介面IC] ADM211／ADuM3190｜通訊收發器・隔離誤差放大器",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "25786343451",
+      "title": "[Microchip] [微控制器IC] PIC18F2580／PIC16F1823-I/SL｜白紅標記分款",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "25392477619",
+      "title": "[電子開關] DTSM-62N-V-B-SW-02觸動／LSS12-40-V-T/R滑動｜分款選購",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "25236689559",
+      "title": "[COSMO] [光耦合器] K30102ATLD光電晶體／KMOC3023 TRIAC｜分款選購",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "24691771432",
+      "title": "[Remaco] [管狀馬達] TE-512 30R／RO59S-120／RO45Q-10｜型號選購",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "24386452346",
+      "title": "[Cypress] [電子IC] CY8C3866AXI／3666AXI／3245AXI・CY7C53150",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "28629408765",
+      "title": "mini 28格收納盒｜小物分類收納",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "28812372311",
+      "title": "[Samsung] SDRAM／NAND FLASH記憶體晶片｜K4X1G／K9F1G系列｜依選項選購",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "24442477802",
+      "title": "ECHELON LONWORKS通訊IC｜FTT-10A 50051R｜FT-X1 14240R",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "49258543285",
+      "title": "CY7C53150 LonWorks網路處理器｜TI TL16C550CFN UART通訊控制器",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "28962180447",
+      "title": "HOLTEK盛群 HT16K33 LED驅動／按鍵掃描控制器｜HT1381A RTC即時時鐘IC",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "26963722909",
+      "title": "ST LM358DT／LM324DT 運算放大器｜AATC AD-8504-CQ4-LF 電磁蜂鳴器",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "27913009315",
+      "title": "Nexperia N74F00D NAND閘／N74F32D OR閘｜74F TTL邏輯IC SOP14",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "29413719118",
+      "title": "ADI ADM4853 RS-485收發器｜NXP TJA1042T／PCA82C251T CAN收發器",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "53358530272",
+      "title": "Infineon 1EDI05I12AFXUMA1 隔離式閘極驅動IC｜IGBT MOSFET SiC",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "24636504839",
+      "title": "開關元件-DTSM-24NQ/TR觸摸開關+SW-22-KTSC-211-SWITCH CAP按鍵(組)",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "26979062323",
+      "title": "插槽-CONN-44-4130-32S-GP-PLCC SOCKET 32P SMT",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "29012513617",
+      "title": "被動元件-49US-10MHz-20PF-49US-3.6864MHz石英晶體QuartzCrystal",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "28507880400",
+      "title": "光電元件-光耦合器-4N35-V0505K-6N137SDM-Optocoupler-電晶體輸出光耦器",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "28713719310",
+      "title": "被動元件EEE-FT1H331AP-Panasonic-UWT0J331MCL1GS鋁電解電容器鋁質電容",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "28162185635",
+      "title": "感測器-AVAGO HEDS-9732-T50光學增量式編碼器模組Optical Incremental",
+      "status": "待核對庫存及優化"
+    },
+    {
+      "id": "29413718831",
+      "title": "[電子零件]AX3482SA／U-160-8G 電源管理IC｜Axelite SOP-8｜DC/DC降壓",
+      "status": "待核對庫存及優化"
+    }
+  ],
+  "deferred": [
+    {
+      "id": "29107351792",
+      "reason": "品牌標示與原始圖紙不一致，暫緩以免誤標"
+    }
+  ],
+  "latestFacebook": {
+    "shopeeProductId": "27912078739",
+    "url": "https://www.facebook.com/marketplace/item/1652740136285755/",
+    "status": "重建後檢閱中",
+    "groupsSubmitted": 20,
+    "groupsConfirmed": 6,
+    "groupsPublic": 5,
+    "groupsPendingReview": 1,
+    "note": "依最近一次回讀紀錄；其餘社團狀態待平台處理，不重複補送。",
+    "githubDirectoryLineRemoved": true
+  },
+  "constraints": [
+    "價格庫存為各商品核對日期的人工快照，跨平台共用同批庫存。",
+    "缺少證明的品牌、規格、保固或測試結果不補寫為已知事實。",
+    "9份Word內容草稿已保存，但尚未完成最終逐頁版面核對。",
+    "80張已歸檔來源圖仍待辨識，歸檔不代表內容審核或已上架。"
+  ]
+}
