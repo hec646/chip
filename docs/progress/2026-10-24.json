@@ -4,11 +4,11 @@
   "basis": "依目前保存的操作與核對紀錄整理，非即時平台查詢；送出不等於核准，未記錄不等於未上架。",
   "summary": {
     "totalQueued": 40,
-    "shopeeOptimized": 9,
-    "pending": 30,
+    "shopeeOptimized": 10,
+    "pending": 29,
     "deferred": 1,
-    "approvedProductImages": 108,
-    "archivedSourceImages": 385,
+    "approvedProductImages": 120,
+    "archivedSourceImages": 398,
     "unidentifiedArchivedImages": 80
   },
   "products": [
@@ -328,14 +328,52 @@
         "status": "尚未刊登；平台驗證條件待處理"
       },
       "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "28812090918",
+      "title": "[Letex／ADI] [光繼電器／雙運放] LT218／AD8656／AD8676｜單顆分款",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 6,
+      "archivedVerifiedFiles": 51,
+      "priceStockCheckedAt": "2026-10-24",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "LT218",
+          "price": 36,
+          "stock": 15
+        },
+        {
+          "model": "AD8676",
+          "price": 180,
+          "stock": 42
+        },
+        {
+          "model": "AD8656",
+          "price": 150,
+          "stock": 24
+        }
+      ],
+      "facebook": {
+        "status": "未記錄",
+        "url": null
+      },
+      "ruten": {
+        "status": "本次未處理",
+        "url": null
+      },
+      "yahoo": {
+        "status": "尚未刊登；平台驗證條件待處理"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
     }
   ],
   "pending": [
-    {
-      "id": "28812090918",
-      "title": "[Letex／ADI] [電子零件] LT218光繼電器／AD8656・AD8676運放｜依料號選購",
-      "status": "待核對庫存及優化"
-    },
     {
       "id": "28812372608",
       "title": "[Echelon／Samsung] [處理器IC] PL3150-L10／S3C6410系列｜依料號選購",
@@ -488,21 +526,22 @@
       "reason": "品牌標示與原始圖紙不一致，暫緩以免誤標"
     }
   ],
+  "preparedPendingUpload": null,
   "latestFacebook": {
     "shopeeProductId": "27912078739",
     "url": "https://www.facebook.com/marketplace/item/1652740136285755/",
     "status": "重建後檢閱中",
     "groupsSubmitted": 20,
-    "groupsConfirmed": 6,
-    "groupsPublic": 5,
-    "groupsPendingReview": 1,
+    "groupsConfirmed": 20,
+    "groupsPublic": 18,
+    "groupsPendingReview": 2,
     "note": "依最近一次回讀紀錄；其餘社團狀態待平台處理，不重複補送。",
     "githubDirectoryLineRemoved": true
   },
   "constraints": [
     "價格庫存為各商品核對日期的人工快照，跨平台共用同批庫存。",
     "缺少證明的品牌、規格、保固或測試結果不補寫為已知事實。",
-    "9份Word內容草稿已保存，但尚未完成最終逐頁版面核對。",
+    "10份Word內容草稿已保存，但尚未完成最終逐頁版面核對。",
     "80張已歸檔來源圖仍待辨識，歸檔不代表內容審核或已上架。"
   ]
 }
