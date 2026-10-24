@@ -339,7 +339,7 @@
       },
       "generatedApprovedImages": 12,
       "originalPhotos": 6,
-      "archivedVerifiedFiles": 51,
+      "archivedVerifiedFiles": 56,
       "priceStockCheckedAt": "2026-10-24",
       "minimumOrder": 1,
       "variants": [
@@ -360,8 +360,8 @@
         }
       ],
       "facebook": {
-        "status": "未記錄",
-        "url": null
+        "status": "已送審",
+        "url": "https://www.facebook.com/marketplace/item/29209462122073884/"
       },
       "ruten": {
         "status": "本次未處理",
@@ -527,6 +527,14 @@
     }
   ],
   "preparedPendingUpload": null,
+  "latestProductFacebook": {
+    "shopeeProductId": "28812090918",
+    "url": "https://www.facebook.com/marketplace/item/29209462122073884/",
+    "status": "檢閱中",
+    "photos": 9,
+    "copyVerified": true,
+    "groupsSubmitted": 0
+  },
   "latestFacebook": {
     "shopeeProductId": "27912078739",
     "url": "https://www.facebook.com/marketplace/item/1652740136285755/",
