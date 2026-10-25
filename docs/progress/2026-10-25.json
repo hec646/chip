@@ -4,11 +4,11 @@
   "basis": "依目前保存的操作與核對紀錄整理，非即時平台查詢；送出不等於核准，未記錄不等於未上架。",
   "summary": {
     "totalQueued": 40,
-    "shopeeOptimized": 15,
-    "pending": 24,
+    "shopeeOptimized": 16,
+    "pending": 23,
     "deferred": 1,
-    "approvedProductImages": 180,
-    "archivedSourceImages": 463,
+    "approvedProductImages": 192,
+    "archivedSourceImages": 477,
     "unidentifiedArchivedImages": 80
   },
   "products": [
@@ -561,14 +561,42 @@
         "status": "尚未刊登；平台驗證條件待處理"
       },
       "word": "草稿已保存，尚未完成逐頁版面核對"
+    },
+    {
+      "shopeeProductId": "26407873327",
+      "title": "[品牌待確認] [電子零件] AI-U-118 24 die｜長型封裝・單顆選購",
+      "shopee": {
+        "status": "已儲存並核對",
+        "galleryImages": 9,
+        "descriptionImages": 12
+      },
+      "generatedApprovedImages": 12,
+      "originalPhotos": 1,
+      "archivedVerifiedFiles": 47,
+      "priceStockCheckedAt": "2026-10-25",
+      "minimumOrder": 1,
+      "variants": [
+        {
+          "model": "AI-U-118 24 die（原頁名稱）",
+          "price": 50,
+          "stock": 12
+        }
+      ],
+      "facebook": {
+        "status": "已送審",
+        "url": "https://www.facebook.com/marketplace/item/1422924302718436/"
+      },
+      "ruten": {
+        "status": "本次未處理",
+        "url": null
+      },
+      "yahoo": {
+        "status": "尚未刊登；平台驗證條件待處理"
+      },
+      "word": "草稿已保存，尚未完成逐頁版面核對"
     }
   ],
   "pending": [
-    {
-      "id": "26407873327",
-      "title": "[電子零件] AI-U-118 24 die｜長型封裝實拍・依原料號核對",
-      "status": "待核對庫存及優化"
-    },
     {
       "id": "26163718935",
       "title": "[Philips／Fairchild／TI] [邏輯IC] 74HC541系列／SN74LS244DW",
@@ -693,8 +721,8 @@
   ],
   "preparedPendingUpload": null,
   "latestProductFacebook": {
-    "shopeeProductId": "27962369897",
-    "url": "https://www.facebook.com/marketplace/item/963185630198449/",
+    "shopeeProductId": "26407873327",
+    "url": "https://www.facebook.com/marketplace/item/1422924302718436/",
     "status": "檢閱中",
     "photos": 9,
     "copyVerified": true,
@@ -714,7 +742,7 @@
   "constraints": [
     "價格庫存為各商品核對日期的人工快照，跨平台共用同批庫存。",
     "缺少證明的品牌、規格、保固或測試結果不補寫為已知事實。",
-    "15份Word內容草稿已保存，但尚未完成最終逐頁版面核對。",
+    "16份Word內容草稿已保存，但尚未完成最終逐頁版面核對。",
     "80張已歸檔來源圖仍待辨識，歸檔不代表內容審核或已上架。"
   ]
 }
