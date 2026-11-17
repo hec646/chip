@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09192b"/>
+      <stop offset="50%" stop-color="#112a46"/>
+      <stop offset="100%" stop-color="#09192b"/>
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="50%" stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bgGrad2)"/>
+  <rect x="36" y="36" width="1008" height="1008" rx="24" fill="none" stroke="url(#cyanGrad)" stroke-width="6"/>
+
+  <!-- Top Tag -->
+  <rect x="290" y="76" width="500" height="58" rx="29" fill="#06b6d4" fill-opacity="0.2" stroke="#67e8f9" stroke-width="2"/>
+  <text x="540" y="116" text-anchor="middle" fill="#67e8f9" font-family="Microsoft JhengHei, sans-serif" font-size="30" font-weight="bold">03-主要功能及規格｜TO-220 三端穩壓 IC</text>
+
+  <!-- Main Title -->
+  <text x="540" y="210" text-anchor="middle" fill="#ffffff" font-family="Microsoft JhengHei, sans-serif" font-size="56" font-weight="bold">L7815CV / L7915CV / L7824CV</text>
+  <text x="540" y="280" text-anchor="middle" fill="#fde047" font-family="Microsoft JhengHei, sans-serif" font-size="42" font-weight="bold">ST 意法半導體｜+15V / -15V / +24V 穩壓晶片</text>
+
+  <!-- TO-220 3 Chips Illustration -->
+  <g transform="translate(150, 320)">
+    <!-- Chip 1: L7815CV -->
+    <g transform="translate(0, 0)">
+      <rect x="30" y="0" width="160" height="65" rx="8" fill="#cbd5e1" stroke="#64748b" stroke-width="3"/>
+      <circle cx="110" cy="32" r="20" fill="#09192b" stroke="#64748b" stroke-width="3"/>
+      <rect x="20" y="60" width="180" height="145" rx="10" fill="#1e293b" stroke="#475569" stroke-width="4"/>
+      <text x="110" y="120" text-anchor="middle" fill="#ffffff" font-family="Consolas, monospace" font-size="32" font-weight="bold">L7815CV</text>
+      <text x="110" y="165" text-anchor="middle" fill="#38bdf8" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold">+15V / 1.5A</text>
+      <rect x="50" y="205" width="16" height="65" fill="#94a3b8"/>
+      <rect x="102" y="205" width="16" height="65" fill="#94a3b8"/>
+      <rect x="154" y="205" width="16" height="65" fill="#94a3b8"/>
+    </g>
+    <!-- Chip 2: L7915CV -->
+    <g transform="translate(280, 0)">
+      <rect x="30" y="0" width="160" height="65" rx="8" fill="#cbd5e1" stroke="#64748b" stroke-width="3"/>
+      <circle cx="110" cy="32" r="20" fill="#09192b" stroke="#64748b" stroke-width="3"/>
+      <rect x="20" y="60" width="180" height="145" rx="10" fill="#1e293b" stroke="#475569" stroke-width="4"/>
+      <text x="110" y="120" text-anchor="middle" fill="#ffffff" font-family="Consolas, monospace" font-size="32" font-weight="bold">L7915CV</text>
+      <text x="110" y="165" text-anchor="middle" fill="#fde047" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold">-15V / 1.5A</text>
+      <rect x="50" y="205" width="16" height="65" fill="#94a3b8"/>
+      <rect x="102" y="205" width="16" height="65" fill="#94a3b8"/>
+      <rect x="154" y="205" width="16" height="65" fill="#94a3b8"/>
+    </g>
+    <!-- Chip 3: L7824CV -->
+    <g transform="translate(560, 0)">
+      <rect x="30" y="0" width="160" height="65" rx="8" fill="#cbd5e1" stroke="#64748b" stroke-width="3"/>
+      <circle cx="110" cy="32" r="20" fill="#09192b" stroke="#64748b" stroke-width="3"/>
+      <rect x="20" y="60" width="180" height="145" rx="10" fill="#1e293b" stroke="#475569" stroke-width="4"/>
+      <text x="110" y="120" text-anchor="middle" fill="#ffffff" font-family="Consolas, monospace" font-size="32" font-weight="bold">L7824CV</text>
+      <text x="110" y="165" text-anchor="middle" fill="#4ade80" font-family="Microsoft JhengHei, sans-serif" font-size="26" font-weight="bold">+24V / 1.5A</text>
+      <rect x="50" y="205" width="16" height="65" fill="#94a3b8"/>
+      <rect x="102" y="205" width="16" height="65" fill="#94a3b8"/>
+      <rect x="154" y="205" width="16" height="65" fill="#94a3b8"/>
+    </g>
+  </g>
+
+  <!-- Key Specs Box -->
+  <rect x="80" y="635" width="920" height="240" rx="18" fill="#1e293b" stroke="#67e8f9" stroke-width="3"/>
+  <text x="540" y="695" text-anchor="middle" fill="#fde047" font-family="Microsoft JhengHei, sans-serif" font-size="38" font-weight="bold">✔ 內建過熱關斷保護・輸出短路電流限制・高穩定度</text>
+  <text x="540" y="758" text-anchor="middle" fill="#f8fafc" font-family="Microsoft JhengHei, sans-serif" font-size="34" font-weight="bold">✔ 適用：對稱 ±15V 運放雙電源 / +24V 工控繼電器電源板維修</text>
+  <text x="540" y="825" text-anchor="middle" fill="#67e8f9" font-family="Microsoft JhengHei, sans-serif" font-size="36" font-weight="bold">蝦皮同步價｜L7815CV: $18｜L7915CV: $18｜L7824CV: $20</text>
+
+  <!-- Bottom Banner -->
+  <rect x="80" y="905" width="920" height="90" rx="14" fill="url(#cyanGrad)"/>
+  <text x="540" y="963" text-anchor="middle" fill="#09192b" font-family="Microsoft JhengHei, sans-serif" font-size="38" font-weight="bold">TO-220 標準封裝・現貨充足・四大賣場與 GitHub 同步</text>
+</svg>
