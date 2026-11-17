@@ -1,11 +1,12 @@
-# chip
+# 孟聰的電子零件｜功能分類目錄
 
-電子零件功能分類目錄與商品優化進度。
+- 線上網站：https://hec646.github.io/chip/
+- 蝦皮基準賣場 (`emma1997com`)：https://tw.shp.ee/9RFKM77X
+- 露天市集 (`wawa4546`｜【EMMA Collection】)：https://www.ruten.com.tw/store/wawa4546/
+- Yahoo 奇摩拍賣 (`Y4755423409`)：https://tw.bid.yahoo.com/booth/Y4755423409
+- Facebook Marketplace：https://www.facebook.com/marketplace/you/selling?locale=zh_TW
+- 2026/10/24 進度報告：[Markdown](docs/progress/2026-10-24.md)｜[JSON](docs/progress/2026-10-24.json)
+- 2026/10/25 進度報告：[Markdown](docs/progress/2026-10-25.md)｜[JSON](docs/progress/2026-10-25.json)
+- 2026/11/05 同步與 `03-主要功能及規格` 主圖快照：[JSON](docs/progress/2026-11-05.json)｜[`assets/`](assets/)
 
-- [瀏覽電子零件網站](https://hec646.github.io/chip/)
-- [目前電子零件進度（2026-10-24）](docs/progress/2026-10-24.md)
-- [結構化進度資料](docs/progress/2026-10-24.json)
-
-目前處理佇列共40款：9款蝦皮圖文優化完成、30款待處理、1款暫緩。完成商品每款9張商品圖及12張說明圖已儲存並核對；各平台刊登與審核情況請見進度頁。
-
-進度與價格庫存皆為保存紀錄的日期快照，非即時平台同步。未記錄不代表未刊登，送出不代表已核准。
+靜態網頁整理 61 項電子零件，依實際電路功能分為 10 大類別，保留原始型號、商品照片與目前已配對的規格書 PDF，並同步蝦皮已優化電子零件之單價、庫存、最低購買量、露天與 Facebook Marketplace 連結及 `03-主要功能及規格` 1:1 活動主圖。
