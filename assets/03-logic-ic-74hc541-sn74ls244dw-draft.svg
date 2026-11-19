@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+<title>03｜74HC541 / SN74LS244DW 主要功能與規格（示意草稿）</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1b34"/><stop offset="1" stop-color="#153e65"/></linearGradient></defs>
+<rect width="1080" height="1080" fill="url(#bg)"/>
+<rect x="34" y="34" width="1012" height="1012" rx="25" fill="none" stroke="#f5c45b" stroke-width="5"/>
+<rect x="180" y="64" width="720" height="66" rx="32" fill="#284c70"/>
+<text x="540" y="107" text-anchor="middle" fill="#f8d77d" font-size="33" font-family="Microsoft JhengHei, sans-serif" font-weight="bold">03｜主要功能及規格</text>
+<text x="540" y="212" text-anchor="middle" fill="white" font-size="61" font-family="Microsoft JhengHei, sans-serif" font-weight="bold">8位元・三態邏輯緩衝器</text>
+<text x="540" y="277" text-anchor="middle" fill="#a8dffa" font-size="32" font-family="Microsoft JhengHei, sans-serif">雙型號規格一次看｜非反相輸出</text>
+<rect x="75" y="322" width="448" height="508" rx="19" fill="#f5f8fc"/>
+<rect x="557" y="322" width="448" height="508" rx="19" fill="#f5f8fc"/>
+<rect x="75" y="322" width="448" height="81" rx="19" fill="#1280b8"/>
+<rect x="557" y="322" width="448" height="81" rx="19" fill="#1280b8"/>
+<text x="299" y="377" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-weight="bold" font-size="44">74HC541</text>
+<text x="781" y="377" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-weight="bold" font-size="41">SN74LS244DW</text>
+<!-- Decorative abstract IC silhouettes, not product photography or package representation -->
+<rect x="163" y="440" width="270" height="172" rx="15" fill="#1c293b" stroke="#798a9d" stroke-width="5"/>
+<rect x="645" y="440" width="270" height="172" rx="15" fill="#1c293b" stroke="#798a9d" stroke-width="5"/>
+<text x="298" y="534" text-anchor="middle" fill="#c8d5e3" font-family="Arial,sans-serif" font-size="33">HC 541</text>
+<text x="780" y="534" text-anchor="middle" fill="#c8d5e3" font-family="Arial,sans-serif" font-size="33">LS 244</text>
+<text x="299" y="655" text-anchor="middle" fill="#1b354e" font-family="Microsoft JhengHei,sans-serif" font-size="34" font-weight="bold">HC CMOS 系列</text>
+<text x="781" y="655" text-anchor="middle" fill="#1b354e" font-family="Microsoft JhengHei,sans-serif" font-size="34" font-weight="bold">LS TTL 系列</text>
+<text x="299" y="724" text-anchor="middle" fill="#0b669b" font-family="Arial,sans-serif" font-size="46" font-weight="bold">2.0–6.0 V</text>
+<text x="781" y="724" text-anchor="middle" fill="#0b669b" font-family="Arial,sans-serif" font-size="43" font-weight="bold">4.75–5.25 V</text>
+<text x="299" y="777" text-anchor="middle" fill="#5c6470" font-family="Microsoft JhengHei,sans-serif" font-size="25">供電規格依實際廠牌核對</text>
+<text x="781" y="777" text-anchor="middle" fill="#5c6470" font-family="Microsoft JhengHei,sans-serif" font-size="25">供電規格依 TI 資料核對</text>
+<rect x="76" y="855" width="928" height="67" rx="15" fill="#e0f2fe"/>
+<text x="540" y="898" text-anchor="middle" fill="#163650" font-family="Microsoft JhengHei,sans-serif" font-size="34" font-weight="bold">8位元　｜　非反相　｜　三態輸出</text>
+<rect x="76" y="940" width="928" height="80" rx="13" fill="#8b2637"/>
+<text x="540" y="974" text-anchor="middle" fill="white" font-family="Microsoft JhengHei,sans-serif" font-size="26" font-weight="bold">不同系列／腳位及封裝應個別核對</text>
+<text x="540" y="1005" text-anchor="middle" fill="#ffe7e7" font-family="Microsoft JhengHei,sans-serif" font-size="22">示意草稿・非商品實拍・不可視為直接替代</text>
+</svg>
